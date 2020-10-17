@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="940px"
+   height="200px"
+   viewBox="0 0 940 200"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="pedeai.svg">
+  <defs
+     id="defs4566" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="470"
+     inkscape:cy="100"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="120"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4569">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(3.613358,0,0,3.613358,967.32159,-411.00024)"
+       id="g4564"
+       inkscape:export-xdpi="64.809998"
+       inkscape:export-ydpi="64.809998">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3713"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6c3f;fill-opacity:1;stroke:none"
+         transform="matrix(1.2246537,0,0,1.2246537,974.38861,-367.63736)"><flowRegion
+           id="flowRegion3715"
+           style="fill:#ff6c3f;fill-opacity:1"><rect
+             id="rect3717"
+             width="762.85712"
+             height="385.71429"
+             x="-954.28571"
+             y="391.09113"
+             style="fill:#ff6c3f;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara3719"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ff6c3f;fill-opacity:1">pedeaí</flowPara></flowRoot>      <rect
+         style="opacity:1;fill:#ff6c3f;fill-opacity:1;stroke:none;stroke-width:0.26892075"
+         id="rect4526"
+         width="36.112217"
+         height="36.112217"
+         x="-254.75597"
+         y="119.35119"
+         ry="3.4575527" />
+      <rect
+         ry="3.4575527"
+         y="124.7296"
+         x="-249.37755"
+         height="36.112217"
+         width="36.112217"
+         id="rect4532"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26892075" />
+      <rect
+         style="opacity:1;fill:#ff6c3f;fill-opacity:1;stroke:none;stroke-width:0.26892075"
+         id="rect4534"
+         width="36.112217"
+         height="36.112217"
+         x="-243.99913"
+         y="130.10802"
+         ry="3.4575527" />
+      <path
+         d="m -25.040918,161.21205 a 17.62314,2.0334404 0 0 1 -8.811571,1.76101 17.62314,2.0334404 0 0 1 -17.62314,0 17.62314,2.0334404 0 0 1 -8.81157,-1.76101 l 17.62314,0 z"
+         sodipodi:end="3.1415927"
+         sodipodi:start="0"
+         sodipodi:ry="2.0334404"
+         sodipodi:rx="17.62314"
+         sodipodi:cy="161.21205"
+         sodipodi:cx="-42.664059"
+         sodipodi:type="arc"
+         id="path4551"
+         style="opacity:1;fill:#ff6c3f;fill-opacity:1;stroke:none;stroke-width:0.21489227" />
+      <path
+         style="opacity:1;fill:#ff6c3f;fill-opacity:1;stroke:none;stroke-width:0.24198973"
+         id="path4553"
+         sodipodi:type="arc"
+         sodipodi:cx="-42.626255"
+         sodipodi:cy="164.91624"
+         sodipodi:rx="22.347843"
+         sodipodi:ry="2.0334404"
+         sodipodi:start="0"
+         sodipodi:end="3.1415927"
+         d="m -20.278412,164.91624 a 22.347843,2.0334404 0 0 1 -11.173922,1.76102 22.347843,2.0334404 0 0 1 -22.347843,0 22.347843,2.0334404 0 0 1 -11.173921,-1.76102 l 22.347843,0 z" />
+    </g>
+  </g>
+</svg>
