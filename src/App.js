@@ -1,25 +1,26 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Suspense } from 'react';
+import { BrowserRouter, Router } from 'react-router-dom';
+import { createBrowserHistory } from 'history';
+import { ThemeProvider } from '@material-ui/core/styles';
+import theme from './config/theme';
+import Routes from './config/Routes';
+import TopBar from './components/TopBar';
 
 function App() {
+  const history = createBrowserHistory();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <BrowserRouter>
+        <Suspense fallback={<h1>carregando...</h1>}>
+          <Router history={history}>
+            <TopBar/>
+
+            <Routes/>
+          </Router>
+        </Suspense>
+      </BrowserRouter>
+    </ThemeProvider>
   );
 }
 
