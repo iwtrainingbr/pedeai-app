@@ -8,7 +8,7 @@ export default function Routes(props) {
   return (
     <Switch>
       <Route path="/" exact component={Home}/>
-      <Route path="/cardapio" component={Menu}/>
+      <Route path="/cardapio/:category" component={Menu}/>
     </Switch>
   );
 }
