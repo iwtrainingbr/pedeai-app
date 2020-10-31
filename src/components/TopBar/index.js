@@ -1,38 +1,20 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import Typography from '@material-ui/core/Typography';
-import Button from '@material-ui/core/Button';
-import IconButton from '@material-ui/core/IconButton';
+import {AppBar, Toolbar, Button, Typography, IconButton} from '@material-ui/core';
 import MenuIcon from '@material-ui/icons/Menu';
+import './style.scss';
 
-const useStyles = makeStyles((theme) => ({
-  root: {
-    flexGrow: 1,
-  },
-  menuButton: {
-    marginRight: theme.spacing(2),
-  },
-  title: {
-    flexGrow: 1,
-  },
-}));
-
-export default function TopBar() {
-  const classes = useStyles();
-
+export default function TopBar(props) {
   return (
-    <div className={classes.root}>
+    <div className={"topbar"}>
       <AppBar position="static">
         <Toolbar>
-          <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
+          <IconButton edge="start" className={"menu-button"} color="inherit" aria-label="menu">
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" className={classes.title}>
-            News
+          <Typography variant="h6" className={"title"}>
+            <img onClick={() => props.history.push('/')} width={160} src={"/img/pedeai-white.svg"}/>
           </Typography>
-          <Button color="inherit">Login</Button>
+          <Button onClick={() => props.history.push('/meus-pedidos')} className={"my-orders"}>Meus Pedidos</Button>
         </Toolbar>
       </AppBar>
     </div>
