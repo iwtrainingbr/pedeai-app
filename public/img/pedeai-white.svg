@@ -13,7 +13,7 @@
    version="1.1"
    id="SVGRoot"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="pedeai.svg">
+   sodipodi:docname="pedeai-white.svg">
   <defs
      id="defs4566" />
   <sodipodi:namedview
@@ -23,16 +23,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="470"
-     inkscape:cy="100"
+     inkscape:zoom="0.82330686"
+     inkscape:cx="605.18356"
+     inkscape:cy="2.7320805"
      inkscape:document-units="px"
      inkscape:current-layer="g4564"
      showgrid="false"
-     inkscape:window-width="1681"
+     inkscape:window-width="1668"
      inkscape:window-height="856"
-     inkscape:window-x="159"
-     inkscape:window-y="150"
+     inkscape:window-x="153"
+     inkscape:window-y="178"
      inkscape:window-maximized="0"
      inkscape:document-rotation="0" />
   <metadata
@@ -60,34 +60,34 @@
          aria-label="pedeaí"
          transform="matrix(1.2246537,0,0,1.2246537,974.38861,-367.63736)"
          id="flowRoot3713"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6c3f;fill-opacity:1;stroke:none">
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none">
         <path
            d="m -939.56516,405.61718 q 3.12,0 5.64,1.48 2.56,1.44 4,4 1.48,2.56 1.48,5.68 0,3.12 -1.44,5.68 -1.4,2.52 -3.88,4 -2.44,1.44 -5.48,1.44 -2.6,0 -4.76,-1.08 -2.16,-1.12 -3.56,-3.04 v 11.72 q 0,0.68 -0.44,1.12 -0.44,0.44 -1.12,0.44 -0.68,0 -1.12,-0.44 -0.4,-0.44 -0.4,-1.12 v -8.96 q -0.04,-0.12 -0.04,-0.36 v -9.4 q 0,-3.12 1.44,-5.68 1.48,-2.56 4,-4 2.56,-1.48 5.68,-1.48 z m 0,19.48 q 2.28,0 4.12,-1.08 1.88,-1.08 2.92,-2.96 1.08,-1.92 1.08,-4.28 0,-2.36 -1.08,-4.24 -1.04,-1.92 -2.92,-3 -1.84,-1.12 -4.12,-1.12 -2.28,0 -4.12,1.12 -1.84,1.08 -2.92,3 -1.04,1.88 -1.04,4.24 0,0.68 0.04,1 0.04,0.08 0.04,0.2 0.4,3.12 2.6,5.12 2.24,2 5.4,2 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ff6c3f;fill-opacity:1"
-           id="path137" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1"
+           id="path58" />
         <path
            d="m -913.0852,405.61718 q 2.96,0 5.24,1.4 2.28,1.36 3.52,3.8 1.28,2.44 1.28,5.56 0,0.64 -0.4,1.04 -0.4,0.36 -1.04,0.36 h -16.16 q 0.32,3.28 2.56,5.32 2.24,2.04 5.6,2.04 1.44,0 2.88,-0.48 1.48,-0.52 2.36,-1.28 0.52,-0.4 1.08,-0.4 0.44,0 0.88,0.32 0.52,0.48 0.52,1.08 0,0.52 -0.44,0.92 -1.32,1.12 -3.36,1.88 -2.04,0.72 -3.92,0.72 -3.2,0 -5.72,-1.4 -2.52,-1.44 -3.96,-3.96 -1.4,-2.56 -1.4,-5.76 0,-3.24 1.32,-5.76 1.36,-2.56 3.72,-3.96 2.4,-1.44 5.44,-1.44 z m 0,2.76 q -3.04,0 -5.04,1.88 -2,1.88 -2.44,4.96 h 14.64 q -0.32,-3.08 -2.24,-4.96 -1.92,-1.88 -4.92,-1.88 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ff6c3f;fill-opacity:1"
-           id="path139" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1"
+           id="path60" />
         <path
            d="m -877.60529,406.97718 q 0.04,0.12 0.04,0.36 v 9.4 q 0,3.12 -1.48,5.68 -1.44,2.56 -4,4.04 -2.52,1.44 -5.64,1.44 -3.12,0 -5.68,-1.44 -2.52,-1.48 -4,-4.04 -1.44,-2.56 -1.44,-5.68 0,-3.12 1.4,-5.64 1.44,-2.56 3.88,-4 2.48,-1.48 5.52,-1.48 2.6,0 4.76,1.12 2.16,1.08 3.56,3 v -11.72 q 0,-0.68 0.44,-1.12 0.44,-0.44 1.12,-0.44 0.68,0 1.08,0.44 0.44,0.44 0.44,1.12 z m -11.08,18.12 q 2.28,0 4.12,-1.08 1.84,-1.12 2.88,-3 1.08,-1.92 1.08,-4.28 0,-0.68 -0.04,-1 -0.04,-0.08 -0.04,-0.2 -0.4,-3.12 -2.64,-5.12 -2.2,-2 -5.36,-2 -2.28,0 -4.16,1.08 -1.84,1.08 -2.92,3 -1.04,1.88 -1.04,4.24 0,2.36 1.04,4.28 1.08,1.88 2.92,3 1.88,1.08 4.16,1.08 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ff6c3f;fill-opacity:1"
-           id="path141" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1"
+           id="path62" />
         <path
            d="m -861.04533,405.61718 q 2.96,0 5.24,1.4 2.28,1.36 3.52,3.8 1.28,2.44 1.28,5.56 0,0.64 -0.4,1.04 -0.4,0.36 -1.04,0.36 h -16.16 q 0.32,3.28 2.56,5.32 2.24,2.04 5.6,2.04 1.44,0 2.88,-0.48 1.48,-0.52 2.36,-1.28 0.52,-0.4 1.08,-0.4 0.44,0 0.88,0.32 0.52,0.48 0.52,1.08 0,0.52 -0.44,0.92 -1.32,1.12 -3.36,1.88 -2.04,0.72 -3.92,0.72 -3.2,0 -5.72,-1.4 -2.52,-1.44 -3.96,-3.96 -1.4,-2.56 -1.4,-5.76 0,-3.24 1.32,-5.76 1.36,-2.56 3.72,-3.96 2.4,-1.44 5.44,-1.44 z m 0,2.76 q -3.04,0 -5.04,1.88 -2,1.88 -2.44,4.96 h 14.64 q -0.32,-3.08 -2.24,-4.96 -1.92,-1.88 -4.92,-1.88 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ff6c3f;fill-opacity:1"
-           id="path143" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1"
+           id="path64" />
         <path
            d="m -836.64541,405.61718 q 3.12,0 5.64,1.48 2.56,1.44 4,4 1.48,2.56 1.48,5.68 v 9.4 q 0,0.64 -0.44,1.08 -0.44,0.44 -1.12,0.44 -0.68,0 -1.12,-0.4 -0.44,-0.44 -0.44,-1.12 v -2.4 q -1.4,1.92 -3.56,3.04 -2.16,1.08 -4.76,1.08 -3.04,0 -5.52,-1.44 -2.44,-1.48 -3.88,-4 -1.4,-2.56 -1.4,-5.68 0,-3.12 1.44,-5.68 1.48,-2.56 4,-4 2.56,-1.48 5.68,-1.48 z m 0,19.48 q 2.28,0 4.12,-1.08 1.84,-1.08 2.88,-2.96 1.08,-1.92 1.08,-4.28 0,-2.36 -1.08,-4.24 -1.04,-1.92 -2.88,-3 -1.84,-1.12 -4.12,-1.12 -2.28,0 -4.16,1.12 -1.84,1.08 -2.92,3 -1.04,1.88 -1.04,4.24 0,2.36 1.04,4.28 1.08,1.88 2.92,2.96 1.88,1.08 4.16,1.08 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ff6c3f;fill-opacity:1"
-           id="path145" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1"
+           id="path66" />
         <path
            d="m -817.32549,427.69718 q -0.68,0 -1.12,-0.44 -0.44,-0.44 -0.44,-1.12 v -18.76 q 0,-0.68 0.44,-1.12 0.44,-0.44 1.12,-0.44 0.68,0 1.08,0.44 0.44,0.44 0.44,1.12 v 18.76 q 0,0.68 -0.44,1.12 -0.4,0.44 -1.08,0.44 z m -0.28,-25.2 q -0.68,0 -1.12,-0.44 -0.44,-0.48 -0.44,-1.12 0,-0.64 0.36,-1.04 l 4.52,-4.52 q 0.44,-0.44 1.08,-0.44 0.68,0 1.12,0.48 0.44,0.44 0.44,1.12 0,0.64 -0.44,1.04 l -4.48,4.52 q -0.4,0.4 -1.04,0.4 z"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ff6c3f;fill-opacity:1"
-           id="path147" />
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#ffffff;fill-opacity:1"
+           id="path68" />
       </g>
       <rect
-         style="opacity:1;fill:#ff6c3f;fill-opacity:1;stroke:none;stroke-width:0.26892075"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26892075"
          id="rect4526"
          width="36.112217"
          height="36.112217"
@@ -101,9 +101,9 @@
          height="36.112217"
          width="36.112217"
          id="rect4532"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26892075" />
+         style="opacity:1;fill:#ff6c3f;fill-opacity:1;stroke:none;stroke-width:0.26892075" />
       <rect
-         style="opacity:1;fill:#ff6c3f;fill-opacity:1;stroke:none;stroke-width:0.26892075"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.268921"
          id="rect4534"
          width="36.112217"
          height="36.112217"
@@ -120,9 +120,9 @@
          sodipodi:cx="-42.664059"
          sodipodi:type="arc"
          id="path4551"
-         style="opacity:1;fill:#ff6c3f;fill-opacity:1;stroke:none;stroke-width:0.21489227" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.21489227" />
       <path
-         style="opacity:1;fill:#ff6c3f;fill-opacity:1;stroke:none;stroke-width:0.24198973"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.24198973"
          id="path4553"
          sodipodi:type="arc"
          sodipodi:cx="-42.626255"

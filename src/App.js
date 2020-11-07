@@ -14,7 +14,7 @@ function App() {
       <BrowserRouter>
         <Suspense fallback={<h1>carregando...</h1>}>
           <Router history={history}>
-            <TopBar/>
+            <TopBar history={history}/>
 
             <Routes/>
           </Router>

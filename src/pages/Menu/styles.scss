@@ -1,3 +1,5 @@
+@import '../../assets/colors';
+
 .page-menu {
   padding-left: 10px;
   padding-right: 10px;
@@ -6,4 +8,17 @@
 .card-item {
   margin-bottom: 10px;
   margin-top: 10px;
+
+  .description {
+    color: $text-gray;
+  }
+
+  .price {
+    color: $text-green;
+  }
+
+  .quantity {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 }
