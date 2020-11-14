@@ -26,6 +26,14 @@ function AccordionOrderInProgress(props) {
 
                 date = `${date.getDate()}/${date.getMonth()}/${date.getFullYear()} - ${date.getHours()}:${date.getMinutes()}`;
 
+                let status = (<span className={"badge badge-secondary ml-3"}>Aguardando</span>);
+
+                if (order.status === 'Pronto') {
+                    status = (<span className={"badge badge-success ml-3"}>Pronto</span>);
+                } else if (order.status === 'Cancelado') {
+                    status = (<span className={"badge badge-danger ml-3"}>Cancelado</span>);
+                }
+
                 return (
                     <Accordion>
                         <AccordionSummary
@@ -36,9 +44,7 @@ function AccordionOrderInProgress(props) {
                             <Typography className={classes.heading}>
                                 Pedido {id + 1} - {date}
 
-                                <span className={"badge badge-secondary ml-3"}>
-                                    {order.status || 'Aguardando'}
-                                </span>
+                                {status}
                             </Typography>
                         </AccordionSummary>
                         <AccordionDetails>
